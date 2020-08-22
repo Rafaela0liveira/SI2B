@@ -1,0 +1,18 @@
+﻿* Arquitetura e Design: 
+
+
+
+
+O sistema terá controle de acesso: Login e Senha
+Componentes do Cadastro:  Nome, Sobrenome, Idade, Documento de Identidade Pessoal, Telefone, Telefone de Emergência, Endereço de e-mail, Informações de Pagamento (Cliente) / CHT - Certificado de Habilitação Técnica (Piloto)
+Aceite da  Política de privacidade (Termos e Condições)
+
+As informações serão verificadas e um email de confirmação será enviado para acesso ao app.
+Será disponibilizado um mapa de pontos de embarque com localizações aproximadas ao cliente.
+Após selecionar o ponto de embarque, o local do destino é solicitado (respeitando o limite de distância para que atenda a premissa de US$ 10 dólares/limite )
+
+É feito uma comunicação com o controle de tráfego aéreo, se o trajeto não for autorizado, o cliente será notificado.
+Caso o vôo seja aprovado a cobrança é feita via Paypal e o app começa a contagem estimada de tempo do deslocamento do cliente, sendo excedido o tempo, a viagem é cancelada e o valor é estornado com a correção da multa aplicada. 
+
+Chegando ao ponto de embarque no tempo estimado, a viagem é iniciada pelo piloto, não sendo possível nenhum desvio de rota.
+Ao finalizar a viagem, o piloto ficará disponível no novo ponto de embarque e um nível de satisfação é disponibilizado para preenchimento do cliente.

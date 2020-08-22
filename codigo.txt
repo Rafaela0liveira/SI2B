@@ -1,0 +1,4 @@
+﻿* Codificação:
+
+
+O Sistema será desenvolvido pelo Kivy ( biblioteca open source escrita em Python para o desenvolvimento de aplicativos móveis ou desktop )

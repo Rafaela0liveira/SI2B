@@ -1,0 +1,8 @@
+﻿* Operação: 
+
+
+Disponibilizar uma versão Beta 
+Monitorar números de usuários (Pilotos e passageiros)
+Tráfego de Rede 
+Disponibilidade do Sistema 
+Reparo de Erros

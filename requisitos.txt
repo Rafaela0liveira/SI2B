@@ -1,0 +1,32 @@
+﻿Ambiente de Desenvolvimento e Operação 
+Ariane Silva de Brito (1904028)   -    Rafaela Oliveira de Sousa (1903063)
+
+
+
+
+
+
+  
+
+Speed Air 
+
+
+
+
+A empresa X quer fazer viagens com um carro voador
+que transporta pessoas, com limite de preço de até
+10 dólares por viagem, por pessoa. 
+Elabore um sistema para esta operação.
+
+
+
+
+
+
+* Análise:  
+
+
+Este sistema tem como objetivo realizar curtas viagens aéreas de carro para transporte de pessoas, com limite de preço de até US$ 10 dólares por viagem/pessoa, pagamento sendo feito via cartão de crédito/débito ou via paypal, com pontos de embarque e desembarque e podendo realizar viagens compartilhadas com até 4 clientes.
+Tendo aplicação de multas em caso de cancelamento por parte do motorista ou cliente.
+O cliente deve obrigatoriamente possuir um cadastro bem como o motorista.
+O aplicativo deve direcionar o cliente ao ponto de embarque mais próximo com base em sua localização fornecida pelo GPS, devendo o cliente indicar o ponto de desembarque respeitando os pontos fornecidos em uma “lista disponibilizada”.

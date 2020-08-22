@@ -1,0 +1,11 @@
+﻿* Teste
+
+
+ 
+Deverá ocorrer o cancelamento automático, caso:
+
+
+* Voo negado pelo controle de tráfego aéreo
+* Indisponibilidade por questões climáticas 
+* Negação de pagamento 
+* Atraso ao chegar no local de embarque
